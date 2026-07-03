@@ -1,0 +1,2 @@
+# BobbieOS
+Personal AI Assistant
